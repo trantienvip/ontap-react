@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "title": "định",
+      "img": "https://hanoicomputercdn.com/media/product/48724_tong_the_chuot_logitech_g903_hero_wireless_gaming.jpg",
+      "price": "5000",
+      "desc": "không",
+      "author": "admin",
+      "id": 2
+    },
+    {
+      "title": "tien",
+      "img": "https://sweetalert2.github.io/images/SweetAlert2.png",
+      "price": "5000",
+      "desc": "mo ta",
+      "author": "admin",
+      "id": 3
+    },
+    {
+      "title": "tien",
+      "img": "https://hanoicomputercdn.com/media/product/48724_tong_the_chuot_logitech_g903_hero_wireless_gaming.jpg",
+      "price": "50000333",
+      "desc": "3333",
+      "author": "adaa",
+      "id": 4
+    },
+    {
+      "title": "dat ",
+      "img": "https://sweetalert2.github.io/images/SweetAlert2.png",
+      "price": "2000",
+      "desc": "",
+      "author": "",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "trantien007@gmail.com",
+      "password": "$2a$10$012ToldecFEx8NWrxQxWCucHlgW/MR0rgFicKBbrFnCN3XUiTXrOG",
+      "id": 1
+    },
+    {
+      "email": "dat09@gmail.com",
+      "password": "$2a$10$kyHwyPHUPwN3KTc0EniWyOgu5MCBNDkiusTISCif45bur5lWg/b8O",
+      "id": 2
+    },
+    {
+      "email": "dinh@gmail.com",
+      "password": "$2a$10$NZ7DJMGhwSZL2alt7IyqI.cubnttolnMS7RPDLYfwyWEk2UbN1w06",
+      "id": 3
+    }
+  ]
+}
